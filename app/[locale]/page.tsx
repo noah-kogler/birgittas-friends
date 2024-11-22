@@ -2,7 +2,6 @@ import LanguageSwitcher from "@/components/language-switcher";
 import Header from "@/components/header";
 import Description from "@/components/articles/description";
 import Trailer from "@/components/articles/trailer";
-import NextScreening from "@/components/articles/next-screening";
 import Steyr from "@/components/articles/steyr";
 import Podcast from "@/components/articles/podcast";
 import Freistadt from "@/components/articles/freistadt";
@@ -21,7 +20,6 @@ export default function Home() {
         <main className="mt-460px md:mt-560px text-center font-text text-xl">
           <Description/>
           <Trailer/>
-          <NextScreening/>
           <Steyr/>
           <Podcast/>
           <Freistadt/>
