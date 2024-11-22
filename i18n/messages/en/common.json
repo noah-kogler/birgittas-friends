@@ -1,0 +1,86 @@
+{
+  "title": "Birgitta's Friends",
+  "subtitle": "border – crossings",
+
+  "meta_author": "Movie: Christian Kogler, Website: Noah Kogler",
+  "meta_description": "Documentary movie about friendship, Israel, Palestine, peace, history.",
+
+  "change-locale": "auf Deutsch",
+
+  "back": "back to main page",
+
+  "contact_header": "Contact",
+  "contact_name": "Christian Kogler",
+  "contact_company": "Pädagogische Hochschule Oberösterreich",
+  "contact_street": "Kaplanhofstraße 40",
+  "contact_city": "4020 Linz",
+  "contact_country": "Austria",
+  "contact_email": "E-Mail",
+
+  "contact_form_name_label": "Your name",
+  "contact_form_name_placeholder":  "Jane Doe",
+  "contact_form_email_label": "Your e-mail address",
+  "contact_form_email_placeholder": "jane@doe.org",
+  "contact_form_message_label": "Your message",
+  "contact_form_message_placeholder": "Your message",
+  "contact_form_send_button": "send",
+  "contact_form_retry_button": "try again",
+  "contact_form_sending": "sending",
+  "contact_form_success": "Sent successfully. Thanks for your message!",
+  "contact_form_home_link": "back to main page",
+
+  "contact_api_missing_field": "Please fill out all fields!",
+  "contact_api_sending_failed": "Sorry, the e-mail couldn't be sent.",
+  "contact_api_invalid_captcha": "Sorry, you have been categorized as bot by reCAPTCHA.",
+  "contact_api_email_invalid": "Please enter a valid e-mail address!",
+
+  "podcast_title": "Filmseiterl podcast",
+  "podcast_text": "There is a full episode of the film-podcast with interesting facts about “Birgitta's Friends”.",
+  "podcast_text2": "Also available on <a1>Apple Podcast</a1> and <a2>Spotify</a2>.",
+
+  "freistadt_title": "Filmfestival „<a>Der Neue Heimatfilm</a>” in Freistadt",
+  "freistadt_text": "Thank you, Filmfestival Freistadt, for letting us being part in your great event!",
+
+  "premiere_title": "Premiere at Crossing Europe Filmfestival",
+  "premiere_text": "We are very happy about the great success of the world premiere of “Birgitta's Friends” at the <a>Crossing Europe Film Festival</a>! The audience in a full house obviously enjoyed our film and we had an exiting and engaging film talk afterwards. Thank you Crossing Europe for this great opportunity!",
+
+  "description_part1": "An Austrian woman, whose years in Israel have an important impact on her life. Five friends, who couldn't be more different in life experience and view of the world and who are  connected only by their friendship with Birgitta.",
+  "description_part2": "From Muhammad, in Palestinan resistance since his childhood, to Noah, holocaust survivor and conservative Zionist. A meeting, a “naive” plan - “Birgitta's Friends”,",
+  "description_part3": "a documentary film by Christian Kogler ",
+
+  "crowdfunding_header": "We've made it!",
+  "crowdfunding_part_1": "Our <a>“Kickstarter” crowdfunding campaign</a> was successful.",
+  "crowdfunding_support_title": "Thanks to our financial supporters:",
+  "crowdfunding_support": "Hilde Weckmann Stiftung, Friends Associations of Wahat al-Salam - Neve Shalom (<a1>Germany</a1>, <a2>Switzerland</a2>, <a3>Austria</a3>), Patty Ann Woods, Martin Wiesenberger, Hania Fedorowicz, Gernot Weber, Elisabeth, Lukas Voglmayr, Albert Pappenheim, Christian Wollanek, Sahini Hatixhe, Selina Kohl, Niklas Dutzler, Gebhard Donnenberg, Sergey Kochergan and all the others who chose not to be mentioned by name!",
+  "crowdfunding_link_title": "Kickstarter crowdfunding",
+  "crowdfunding_link_german_friends_title": "Der deutsche Verein Freunde von Neve Shalom/Wahat al Salam",
+  "crowdfunding_link_swiss_friends_title": "Schweizer Freunde und Freundinnen von Neve Shalom/Wahat al-Salam",
+  "crowdfunding_link_austrian_friends_title": "Österr. Freunde und Freundinnen von Wahat al-Salam/Neve Shalom",
+
+  "credits_header": "Credits",
+  "credits_concept_production": "Concept, Production:",
+  "credits_edit": "Edit:",
+  "credits_camera": "Camera:",
+  "credits_sound": "Sound concept and mixing:",
+  "credits_subtitles": "Subtitles:",
+  "credits_music": "Music:",
+  "credits_post_production": "Post Production Colour:",
+  "credits_post_support": "The “Birgitta's Friends“ project would not have been possible without a lot of support:",
+
+  "making_of_text": "Look behind the scenes on our ",
+  "making_of_link": "filmmaking experiences page",
+  "making_of_title": "Filmmaking experiences",
+  "making_of_daniel": "Listen to Daniel Mark! The composer of the music for “Birgitta's Friends” tells you a wonderful story about the interesting and unusual instruments he used.",
+  "making_of_fotos": "Filming “Birgitta’s Friends” in Palestine, Israel, Slovakia and Austria was an exiting journey with so many interesting encounters, things to see and wonderful food wherever we went. See some photos of the process!",
+
+  "steyr_title": "School-screening in Steyr",
+  "steyr_text": "80 secondary school students from Steyr saw „Birgitta’s Friends“ in a special screening on April 27th. Great film talk afterwards!",
+  "steyr_cite_title": "A statement from one of the teachers via the",
+  "steyr_link_title": "contact form",
+  "steyr_cite_title_end": ":",
+  "steyr_cite": "Vielen Dank für diesen außergewöhnlichen Film Birgitta's Friends! Ich bereise Israel immer wieder, wohl in der Hoffnung, dass sich dieser „Knoten, den man im Kopf hat”, sich einmal löst. All diese Narrative zu zeigen, ohne zu werten und auch das Scheitern einzugestehen...wirklich stark.  Auch für meine SchülerInnen. Vielen Dank!",
+
+  "next_screening_title": "Next screening",
+  "next_screening_text": "On <span1>09.04.2024</span1> at <span2>19:30</span2> in <a>DAS KINO Salzburg</a>.",
+  "next_screening_tickets": "Tickets"
+}
