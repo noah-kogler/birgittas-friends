@@ -4,7 +4,7 @@ import generateMetadataForPage, { LocaleLayoutProps } from '@/utils/generateMeta
 import type { Metadata } from 'next';
 import LanguageSwitcher from "@/components/language-switcher";
 import Header from "@/components/header";
-import Echo360 from "@/components/echo360";
+import Vimeo from "@/components/Vimeo";
 import MakingOfImage from "@/components/making-of-image";
 import {Link} from "@/navigation";
 import Footer from "@/components/footer";
@@ -25,7 +25,7 @@ export default function ContactPage() {
           <article>
             <h3 className="font-header font-bold text-2.5xl">{t('making_of_title')}</h3>
             <p className="mt-20">{t('making_of_daniel')}</p>
-            <Echo360 videoId="e3abf362-496e-4b7b-b8c8-d8dfd3d270f5"/>
+            <Vimeo videoId="1032337553"/>
           </article>
           <article>
             <p className="mt-20">{t('making_of_fotos')}</p>

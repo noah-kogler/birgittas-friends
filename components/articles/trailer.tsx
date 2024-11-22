@@ -1,9 +1,9 @@
-import Echo360 from "../echo360";
+import Vimeo from "../Vimeo";
 
 export default function Trailer() {
   return (
     <article id="trailer">
-      <Echo360 videoId="c254045a-2460-4711-898c-231385a19029" className="mt-20" />
+      <Vimeo videoId="1032337499" className="mt-20" />
     </article>
   );
 }
