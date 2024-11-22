@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { getTranslations } from 'next-intl/server';
 
 export type LocaleLayoutProps = {
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 };
 
 export default async function generateMetadataForPage(

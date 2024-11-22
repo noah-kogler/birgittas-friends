@@ -20,15 +20,10 @@ export default function ContactPage() {
         <LanguageSwitcher />
         <Header />
         <main className="mt-460px text-center font-text text-xl md:mt-560px">
-          {/*<GoogleReCaptchaProvider*/}
-          {/*  reCaptchaKey="6LdcxHsaAAAAACeqgJqn5vRil4eSGw_3SZbptzHi"*/}
-          {/*  language={router.locale}*/}
-          {/*>*/}
           <ContactFormWithCaptcha />
           <p className="mt-10">
             <Link href="/">{t('back')}</Link>
           </p>
-          {/*</GoogleReCaptchaProvider>*/}
         </main>
         <footer className="mt-20 pb-20 text-center font-text text-sm" />
       </div>
